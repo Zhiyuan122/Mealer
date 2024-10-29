@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">301Project</string>
+    <string-array name="units_array">
+        <item>Pieces</item>
+        <item>Slices</item>
+        <item>Grams</item>
+        <item>lbs</item>
+        <item>Ounces</item>
+        <item>Cups</item>
+        <item>Add Unit</item>
+    </string-array>
+
+    <string-array name="category_array">
+        <item>Fruit</item>
+        <item>Vegetable</item>
+        <item>Dairy</item>
+        <item>Protein</item>
+        <item>Sweets</item>
+        <item>Grain</item>
+        <item>Preserved</item>
+        <item>Seasoning</item>
+        <item>Condiments</item>
+        <item>Add Category</item>
+    </string-array>
+
+    <string-array name="category_array_recipe">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Dessert</item>
+        <item>Snack</item>
+        <item>Add Category</item>
+    </string-array>
+
+    <string-array name="location_array">
+        <item>Fridge</item>
+        <item>Freezer</item>
+        <item>Pantry</item>
+        <item>Kitchen Cupboard</item>
+        <item>Kitchen Shelf</item>
+        <item>Cabinet</item>
+        <item>Cardboard box by the door</item>
+        <item>Add Location</item>
+    </string-array>
+</resources>
