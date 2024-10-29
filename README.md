@@ -131,20 +131,10 @@ doc/
 
 7. **Successful Run**: After the app is successfully installed, locate the "Mealer" app icon on the home screen of the virtual or physical device, as shown below. Click the icon to open the app, where you will see the login screen. New users can choose to register with an email or use Google for quick login, as shown in the images below.
 
-<div style="display: flex; align-items: center; justify-content: space-around;">
-    <div style="text-align: center;">
-        <p>Home Screen Icon:</p>
-        <img src="./demo_img/phonescreen.png" alt="Home Screen Icon" width="150"/>
-    </div>
-    <div style="text-align: center;">
-        <p>App Login Screen:</p>
-        <img src="./demo_img/inside.png" alt="App Login Screen" width="150"/>
-    </div>
-    <div style="text-align: center;">
-        <p>New User Registration with Email:</p>
-        <img src="./demo_img/password.png" alt="New User Registration" width="150"/>
-    </div>
-</div>
+| Home Screen Icon | App Login Screen | Sign in with Email |
+| --- | --- | --- |
+| <img src="./demo_img/phonescreen.png" alt="Home Screen Icon" width="150"/> | <img src="./demo_img/inside.png" alt="App Login Screen" width="150"/> | <img src="./demo_img/password.png" alt="New User Registration" width="150"/> |
+
 
 After completing registration or logging in with Google, new users can access all app features.
 
