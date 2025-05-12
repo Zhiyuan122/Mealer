@@ -140,7 +140,7 @@ After completing registration or logging in with Google, new users can access al
 
 ## Local Testing
 
-If Firebase is not being used, you can use local data for testing. Here’s the code snippet:
+If Firebase is not being used, you can use local mock data and test functionalities offline. This allows for quicker iterations and decouples UI development from backend services. Here’s the code snippet:
 
 ```java
 private void mockData() {
@@ -149,12 +149,4 @@ private void mockData() {
     dataList.add(new Ingredient("Apples", 5.0, "2024-10-30", "Counter", "Unit", "Fruit"));
 }
 ```
-
-## Developers
-
-wiskel
-juyi
-Zhiyuan
-psabharw
-kluge
-yismail
+You can call this method in your onViewCreated() or onCreateView() to simulate real data behavior.
